@@ -6,4 +6,4 @@
 
 - 📧 Mail: **{MAIL}**
 - 🌐 Website: **{WEBSITE}**
-- ⚡ Fun fact: **Actually, nothing. Just booring**
+- ⚡ Fun fact: **I copied this whole repository form NazmusSayad 🙂**

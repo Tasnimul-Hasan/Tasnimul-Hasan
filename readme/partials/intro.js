@@ -1,5 +1,5 @@
-exports.path = __dirname + '/intro.md'
+exports.path = __dirname + "/intro.md";
 exports.placeHolders = {
-  mail: '247sayad@gmail.com',
-  website: 'https://sayad.vercel.app',
-}
+  mail: "hello.tasnimul@gmail.com",
+  website: "no money to build website",
+};

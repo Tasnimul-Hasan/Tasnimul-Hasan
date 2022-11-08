@@ -4,9 +4,9 @@
   </a>
 </div>
 
-- 📧 Mail: **247sayad@gmail.com**
-- 🌐 Website: **https://sayad.vercel.app**
-- ⚡ Fun fact: **Actually, nothing. Just booring**
+- 📧 Mail: **hello.tasnimul@gmail.com**
+- 🌐 Website: **no money to build website**
+- ⚡ Fun fact: **I copied this whole repository form NazmusSayad 🙂**
 
 <br/>
 <h3 align="left">Stack:</h3>
@@ -15,31 +15,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Stack" width="40" height="40"/>
 </a>
 <a href="#" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Stack" width="40" height="40"/>
-</a>
-<a href="#" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Stack" width="40" height="40"/>
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg" alt="Stack" width="40" height="40"/>
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Stack" width="40" height="40"/>
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Stack" width="40" height="40"/>
 </a>
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="Stack" width="40" height="40"/>
 </a>
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Stack" width="40" height="40"/>
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Stack" width="40" height="40"/>
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jamstack/jamstack-original.svg" alt="Stack" width="40" height="40"/>
 </a>
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Stack" width="40" height="40"/>
@@ -52,45 +34,6 @@
 </a>
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Stack" width="40" height="40"/>
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Stack" width="40" height="40"/>
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Stack" width="40" height="40"/>
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="Stack" width="40" height="40"/>
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Stack" width="40" height="40"/>
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="Stack" width="40" height="40"/>
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" alt="Stack" width="40" height="40"/>
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="Stack" width="40" height="40"/>
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Stack" width="40" height="40"/>
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Stack" width="40" height="40"/>
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="Stack" width="40" height="40"/>
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="Stack" width="40" height="40"/>
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="Stack" width="40" height="40"/>
-</a>
-<a href="#" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Stack" width="40" height="40"/>
 </a>
 
 </p>
@@ -105,7 +48,7 @@
 
 <div align="center">
    <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=NazmusSayad&style=flat-square" alt="NazmusSayad" />
+    <img src="https://komarev.com/ghpvc/?username=Tasnimul-Hasan&style=flat-square" alt="NazmusSayad" />
    </a>
 </div>
 
@@ -114,19 +57,19 @@
 <p align="center">
   <a href="#">
     <img
-      align="center" src="https://github-readme-streak-stats.herokuapp.com?user=NazmusSayad&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22" />
+      align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Tasnimul-Hasan&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22" />
   </a>
 </p>
 
 <p align="center">
   <a href="#">
-    <img align="center" src="https://raw.githubusercontent.com/NazmusSayad/Git-Stats/actions_branch/generated_images/overviewDarkMode.svg" />
+    <img align="center" src="https://raw.githubusercontent.com/Tasnimul-Hasan/Git-Stats/actions_branch/generated_images/overviewDarkMode.svg" />
   </a>
 </p>
 
 <p align="center">
   <a href="#">
-    <img align="center" src="https://raw.githubusercontent.com/NazmusSayad/Git-Stats/actions_branch/generated_images/languagesDarkMode.svg" />
+    <img align="center" src="https://raw.githubusercontent.com/Tasnimul-Hasan/Git-Stats/actions_branch/generated_images/languagesDarkMode.svg" />
   </a>
 </p>
 
@@ -139,7 +82,7 @@
 <p align="center">
   <a href="#">
     <img
-      align="center" src="https://raw.githubusercontent.com/NazmusSayad/Git-Stats/master/github-metrics.svg" />
+      align="center" src="https://github.com/Tasnimul-Hasan/Git-Stats/raw/master/github-metrics.svg" />
   </a>
 </p>
 
@@ -153,7 +96,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://activity-graph.herokuapp.com/graph?username=NazmusSayad&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=Tasnimul-Hasan&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true" />
   </a>
 </p>
 
@@ -164,7 +107,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/NazmusSayad">
+  <a href="https://www.buymeacoffee.com/TasnimulHasan">
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="NazmusSayad" />
   </a>
 </p>

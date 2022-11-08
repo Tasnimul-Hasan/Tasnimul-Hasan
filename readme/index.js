@@ -1,13 +1,13 @@
-console.clear()
-const { writeFileSync } = require('fs')
-const { getMarkup, splitter } = require('./utils')
+console.clear();
+const { writeFileSync } = require("fs");
+const { getMarkup, splitter } = require("./utils");
 const [intro, stack, overview, metrics, footer] = getMarkup(
-  require('./partials/intro'),
-  require('./partials/stack'),
-  require('./partials/overview'),
-  require('./partials/metrics'),
-  require('./partials/footer')
-)
+  require("./partials/intro"),
+  require("./partials/stack"),
+  require("./partials/overview"),
+  require("./partials/metrics"),
+  require("./partials/footer")
+);
 
 const markupArray = [
   intro,
@@ -19,6 +19,6 @@ const markupArray = [
   metrics,
   splitter.h1.br.nl(2),
   footer,
-]
+];
 
-writeFileSync('README.md', markupArray.join(''))
+writeFileSync("README.md", markupArray.join(""));
